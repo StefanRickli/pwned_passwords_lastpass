@@ -10,7 +10,7 @@ This Python script looks up all your passwords from a LastPass export in the off
    1. Copy the whole text, paste it into a text editor, save the file as **UTF-8** to the same location as where you stored the python script, using the file name `my_password_list.txt`.
 1. Make sure that the python script, the unpacked 'Pwned Passwords' file and your LastPass file are in the same location.
 1. In a command line window `cd` to the folder containing your files.
-1. Execute `python check_pwned_passwords_from_lastpass_export.txt`.
+1. Execute `python check_pwned_passwords_from_lastpass_export.py`.
    1. Get ready to change some passwords.
 1. **Don't forget to [securely remove][4] the file containing the plain text passwords afterwards!**
 
