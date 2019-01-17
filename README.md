@@ -1,5 +1,5 @@
 # search_pwned_passwords_offline
-This Jupyter notebook looks up all your passwords from a LastPass export in the offline database of [Pwned Passwords][1]. and reports any breached passwords.
+This Python script looks up all your passwords from a LastPass export in the offline database of [Pwned Passwords][1]. and reports any breached passwords.
 
 ## Usage
 1. Install Python3 and the package 'pandas' using [PiP][2] or [Conda][3].
